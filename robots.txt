@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sweet-union-4223.pdfmatheus830.workers.dev/sitemap.xml
